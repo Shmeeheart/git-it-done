@@ -53,4 +53,4 @@ var displayIssues = function(issues) {
     }
 };
 
-getRepoIssues("facebook/react");
+getRepoIssues("Shmeeheart/git-it-done");
